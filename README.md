@@ -1,2 +1,2 @@
 # stone-papper-scissors
-created this uisng javascript
+created this uisng JavaScript
